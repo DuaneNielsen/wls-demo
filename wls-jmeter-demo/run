@@ -1,0 +1,1 @@
+docker run --link daytrader2:daytrader --entrypoint bash duanenielsen/wls-jmeter-demo
