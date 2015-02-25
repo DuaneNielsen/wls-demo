@@ -1,0 +1,2 @@
+docker rm -f daytrader2
+docker run --name daytrader2 -p 9137:9137 duanenielsen/daytrader2

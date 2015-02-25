@@ -1,0 +1,2 @@
+docker rm -f daytrader2
+docker run -it --name daytrader2 -v /c/Users/niedu02/docker/daytrader2:/p -p 9137:9137 --entrypoint bash duanenielsen/daytrader2

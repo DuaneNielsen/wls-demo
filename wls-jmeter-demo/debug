@@ -1,0 +1,1 @@
+docker run -it -v /c/Users/niedu02/docker/wls-jmeter-demo:/p --link daytrader2:daytrader --entrypoint bash duanenielsen/wls-jmeter-demo
